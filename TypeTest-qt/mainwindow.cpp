@@ -56,3 +56,15 @@ void MainWindow::startTimerIfNotRunning()
         timer->start(1000);  // Timer ticks every second
     }
 }
+
+// void MainWindow::displayTextFile()
+// {
+//     QFile file("/input/input.txt");
+//     if (!file.open(QIODevice::ReadOnly) | QIODevice::Text)
+//         return;
+
+//     while (!file.atEnd()) {
+//         QByteArray. line = file.readLine();
+//         process_line(line);
+//     }
+// }
