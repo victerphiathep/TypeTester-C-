@@ -1,0 +1,9 @@
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/TypeTest-qt.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/TypeTest-qt_autogen_timestamp_deps.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/TypeTest-qt_autogen.dir

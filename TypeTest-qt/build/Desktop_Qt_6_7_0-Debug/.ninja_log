@@ -1,0 +1,19 @@
+# ninja log v5
+0	186	1714843314044851130	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+186	1405	1714843315264528211	CMakeFiles/TypeTest-qt.dir/main.cpp.o	75d1d64dc185f09d
+0	186	1714843314044851130	TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+0	8	1714844628661760441	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/cmake.verify_globs	977f0d34e9d0769b
+186	1331	1714843315188547967	CMakeFiles/TypeTest-qt.dir/TypeTest-qt_autogen/mocs_compilation.cpp.o	b8253747baeae48b
+0	186	1714843314044851130	TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+0	186	1714843314044851130	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+1405	1656	1714843315512463742	TypeTest-qt	4d484a141208bb5d
+187	1400	1714843315256530290	CMakeFiles/TypeTest-qt.dir/mainwindow.cpp.o	c3cffeec8b0abdba
+8	130	1714844628773743310	build.ninja	b4652ace076fa72
+0	7	0	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/cmake.verify_globs	977f0d34e9d0769b
+1	13	1714844628805738416	TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+1	13	1714844628805738416	TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+1	13	1714844628805738416	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+1	13	1714844628805738416	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+14	1177	1714844629969560425	CMakeFiles/TypeTest-qt.dir/main.cpp.o	75d1d64dc185f09d
+14	1294	1714844630085542693	CMakeFiles/TypeTest-qt.dir/mainwindow.cpp.o	c3cffeec8b0abdba
+1294	1521	1714844630313507845	TypeTest-qt	4d484a141208bb5d
