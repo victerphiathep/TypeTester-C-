@@ -35,7 +35,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_2">
+   <widget class="QTextEdit" name="userInput">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -45,17 +45,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
      </rect>
     </property>
    </widget>
-   <widget class="QTimeEdit" name="timeEdit">
-    <property name="geometry">
-     <rect>
-      <x>620</x>
-      <y>180</y>
-      <width>91</width>
-      <height>61</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="wpmLabel">
     <property name="geometry">
      <rect>
       <x>510</x>
@@ -68,17 +58,30 @@ li.checked::marker { content: &quot;\2612&quot;; }
      <string>0 wpm</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="restartButton">
     <property name="geometry">
      <rect>
-      <x>740</x>
+      <x>739</x>
       <y>180</y>
       <width>80</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>RestartButton</string>
+     <string>Refresh</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="timerLabel">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>210</y>
+      <width>56</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
@@ -91,14 +94,48 @@ li.checked::marker { content: &quot;\2612&quot;; }
      <height>20</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuWill_this_do_anything">
+   <widget class="QMenu" name="menuNew">
     <property name="title">
-     <string>Will this do anything</string>
+     <string>New</string>
     </property>
    </widget>
-   <addaction name="menuWill_this_do_anything"/>
+   <widget class="QMenu" name="menuOpen">
+    <property name="title">
+     <string>Open</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuSave">
+    <property name="title">
+     <string>Save</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuSave_as">
+    <property name="title">
+     <string>Save as</string>
+    </property>
+   </widget>
+   <addaction name="menuNew"/>
+   <addaction name="menuOpen"/>
+   <addaction name="menuSave"/>
+   <addaction name="menuSave_as"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionrestartButton">
+   <property name="text">
+    <string>restartButton</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="actiontextEdit">
+   <property name="text">
+    <string>textEdit</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
