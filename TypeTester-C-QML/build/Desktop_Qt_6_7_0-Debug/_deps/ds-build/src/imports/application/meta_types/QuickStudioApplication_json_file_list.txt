@@ -1,0 +1,1 @@
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/include/../EWIEGA46WW/moc_quickstudioapplication_p.cpp.json

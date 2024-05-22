@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

@@ -1,0 +1,6 @@
+--resource
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/content/.rcc/qmake_content.qrc
+--resource
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/content/.rcc/content_raw_qml_0.qrc
+/qt/qml/content/App.qml
+/qt/qml/content/Screen01.ui.qml

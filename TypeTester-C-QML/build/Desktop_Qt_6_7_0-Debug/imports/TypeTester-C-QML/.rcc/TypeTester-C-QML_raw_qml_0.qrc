@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/TypeTester-C-QML/">
+    <file alias="Constants.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

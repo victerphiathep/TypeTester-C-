@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/content/App.qml</file>
+    <file alias="Screen01.ui.qml">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

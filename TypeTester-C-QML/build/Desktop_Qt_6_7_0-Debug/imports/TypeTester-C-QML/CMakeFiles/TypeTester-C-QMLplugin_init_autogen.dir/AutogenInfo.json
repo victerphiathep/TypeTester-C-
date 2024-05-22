@@ -1,0 +1,133 @@
+{
+	"BUILD_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_init_autogen",
+	"CMAKE_BINARY_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML",
+	"CMAKE_EXECUTABLE" : "/home/victer/Qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/imports/TypeTester-C-QML/CMakeLists.txt",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/victer/Qt/6.7.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_TypeTester_C_QMLPlugin_in.cpp"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML",
+	"DEP_FILE" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_init_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "TypeTester-C-QMLplugin_init_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_init_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_init_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_NETWORK_LIB",
+		"QT_PLUGIN",
+		"QT_QMLBUILTINS_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"QT_STATICPLUGIN"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_autogen/include",
+		"/home/victer/Qt/6.7.0/gcc_64/include/QtQml",
+		"/home/victer/Qt/6.7.0/gcc_64/include/QtQmlIntegration",
+		"/home/victer/Qt/6.7.0/gcc_64/include/QtQmlBuiltins",
+		"/home/victer/Qt/6.7.0/gcc_64/include/QtNetwork",
+		"/home/victer/Qt/6.7.0/gcc_64/include",
+		"/home/victer/Qt/6.7.0/gcc_64/include/QtCore",
+		"/home/victer/Qt/6.7.0/gcc_64/mkspecs/linux-g++",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/victer/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_init_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_Constants_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_DirectoryFontLoader_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_EventListModel_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_EventListSimulator_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_qmlcache_loader.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_TypeTester-C-QML_raw_qml_0.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_TypeTester-C-QML_raw_qml_0_init.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_qmake_TypeTester-C-QML.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_qmake_TypeTester-C-QML_init.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QML_autogen/mocs_compilation.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_autogen/mocs_compilation.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/typetester-c-qml_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/CMakeFiles/TypeTester-C-QMLplugin_init_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/victer/Qt/6.7.0/gcc_64/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/CMakeFiles/TypeTester-C-QMLplugin_init_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester_C_QMLplugin_init.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_Constants_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_DirectoryFontLoader_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_EventListModel_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_EventListSimulator_qml.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmlcache/TypeTester-C-QML_qmlcache_loader.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_TypeTester-C-QML_raw_qml_0.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_TypeTester-C-QML_raw_qml_0_init.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_qmake_TypeTester-C-QML.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qrc_qmake_TypeTester-C-QML_init.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QML_autogen/mocs_compilation.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/TypeTester-C-QMLplugin_autogen/mocs_compilation.cpp",
+		"/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/typetester-c-qml_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

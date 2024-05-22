@@ -1,0 +1,15 @@
+-rootPath
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML
+-cmake-output
+-output-file
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_TypeTester-C-QMLApp.cmake
+-importPath
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/qml/Main
+-importPath
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/qml
+-importPath
+/home/victer/Qt/6.7.0/gcc_64/./qml
+-qrcFiles
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/.rcc/configuration.qrc
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/.rcc/qmake_Main.qrc
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/.rcc/TypeTester-C-QMLApp_raw_qml_0.qrc

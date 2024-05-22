@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/LogicHelper">
+    <file alias="qmldir">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/qml/QtQuick/Studio/LogicHelper/qmldir</file>
+  </qresource>
+</RCC>
+

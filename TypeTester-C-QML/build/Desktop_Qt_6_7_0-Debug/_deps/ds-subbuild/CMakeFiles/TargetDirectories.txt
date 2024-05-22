@@ -1,0 +1,3 @@
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

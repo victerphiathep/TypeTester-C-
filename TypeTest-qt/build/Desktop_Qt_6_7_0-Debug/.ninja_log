@@ -59,3 +59,10 @@
 1	8	1714855098621397121	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
 9	1332	1714855099945390680	CMakeFiles/TypeTest-qt.dir/mainwindow.cpp.o	c3cffeec8b0abdba
 1332	1601	1714855100213389374	TypeTest-qt	4d484a141208bb5d
+1	18	0	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/cmake.verify_globs	977f0d34e9d0769b
+3	26	1715305776956490350	TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+3	26	1715305776956490350	TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+3	26	1715305776956490350	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/timestamp	7e1bdd09e5d8029
+3	26	1715305776956490350	/home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/mocs_compilation.cpp	7e1bdd09e5d8029
+27	1808	1715305778736511152	CMakeFiles/TypeTest-qt.dir/mainwindow.cpp.o	c3cffeec8b0abdba
+1808	2196	1715305779124515686	TypeTest-qt	4d484a141208bb5d

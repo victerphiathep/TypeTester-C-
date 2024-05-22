@@ -1,0 +1,11 @@
+module TypeTester-C-QML
+linktarget TypeTester-C-QMLplugin
+optional plugin TypeTester-C-QMLplugin
+classname TypeTester_C_QMLPlugin
+typeinfo TypeTester-C-QML.qmltypes
+prefer :/qt/qml/TypeTester-C-QML/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

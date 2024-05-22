@@ -1,0 +1,4 @@
+module Main
+typeinfo TypeTester-C-QMLApp.qmltypes
+prefer :/qt/qml/Main/
+

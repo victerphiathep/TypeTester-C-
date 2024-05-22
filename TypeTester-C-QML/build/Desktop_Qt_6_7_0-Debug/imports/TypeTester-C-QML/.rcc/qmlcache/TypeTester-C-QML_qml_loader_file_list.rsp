@@ -1,0 +1,8 @@
+--resource
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/qmake_TypeTester-C-QML.qrc
+--resource
+/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/imports/TypeTester-C-QML/.rcc/TypeTester-C-QML_raw_qml_0.qrc
+/qt/qml/TypeTester-C-QML/Constants.qml
+/qt/qml/TypeTester-C-QML/DirectoryFontLoader.qml
+/qt/qml/TypeTester-C-QML/EventListModel.qml
+/qt/qml/TypeTester-C-QML/EventListSimulator.qml

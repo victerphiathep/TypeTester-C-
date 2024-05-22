@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtQuick/Studio/Utils">/home/victer/Documents/GIT/TypeTester-C-/TypeTester-C-QML/build/Desktop_Qt_6_7_0-Debug/qml/QtQuick/Studio/Utils</file>
+
+  </qresource>
+</RCC>
