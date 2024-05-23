@@ -9,7 +9,6 @@ TypeTest-qt_autogen/timestamp: \
   /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/mainwindow.h \
   /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/mainwindow.ui \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QRegularExpression \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QString \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QTimer \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20functional.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \

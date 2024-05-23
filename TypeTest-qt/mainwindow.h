@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 #include <QTimer>
-#include <QString>
 #include <QRegularExpression>
 
 QT_BEGIN_NAMESPACE
@@ -24,7 +23,9 @@ private slots:
     void updateTimer();  // Updates the timer every second
     void restartTest();  // Restarts the test and resets everything
     void evaluateTyping();  // Evaluates the typing performance at the end of the test
-    void startTimerIfNotRunning();  // Starts the timer if it is not already running
+    //void startTimerIfNotRunning();  // Starts the timer if it is not already running
+    void onUserInputTextChanged();  // Handles changes in user input text
+    void updateWPM();  // Updates the words per minute
 
 private:
     Ui::MainWindow *ui;          // Pointer to the UI elements

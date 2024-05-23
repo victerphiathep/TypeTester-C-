@@ -1,7 +1,6 @@
 /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/mainwindow.h \
   /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/moc_predefs.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QRegularExpression \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QString \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QTimer \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20functional.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
