@@ -1,5 +1,7 @@
 /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/mainwindow.h \
   /home/victer/Documents/GIT/TypeTester-C-/TypeTest-qt/build/Desktop_Qt_6_7_0-Debug/TypeTest-qt_autogen/moc_predefs.h \
+  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QRegularExpression \
+  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QString \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/QTimer \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20functional.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
@@ -46,7 +48,6 @@
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qglobalstatic.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qhash.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qhashfunctions.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qiodevice.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qiodevicebase.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qiterable.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qiterator.h \
@@ -73,6 +74,7 @@
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qprocessordetection.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qrect.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qrefcount.h \
+  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qscopedpointer.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qscopeguard.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qset.h \
@@ -115,7 +117,6 @@
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qtversionchecks.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qtypeinfo.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qtypes.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qurl.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qutf8stringview.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtCore/qvarlengtharray.h \
@@ -135,23 +136,18 @@
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qkeysequence.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpaintdevice.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpalette.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpicture.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpixelformat.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpixmap.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qpolygon.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qtextdocument.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qtransform.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
   /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
-  /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/qlabel.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/victer/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
